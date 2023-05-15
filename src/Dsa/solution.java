@@ -44,4 +44,6 @@ public static int[] arr(int[] nums, int target){
         }
     return new int[]{0};
 }
+
+
 }
